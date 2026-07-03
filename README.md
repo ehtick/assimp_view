@@ -31,3 +31,13 @@ cd bin/
 cd bin\debug
 .\assimp_view.exe
 ```
+
+### Next steps
+- Integarte tiny-ui
+- Add side-menu for
+  - Import/export
+  - Treeview
+  - View options
+  - Quit
+
+
